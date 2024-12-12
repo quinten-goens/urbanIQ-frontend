@@ -1,2 +1,2 @@
-# urbanIQ-frontend
+# urbanAI-frontend
 placeholder
